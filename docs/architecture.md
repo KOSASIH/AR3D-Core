@@ -6,7 +6,7 @@ The AR3D-Core application is designed with a modular architecture that separates
 
 ## Architecture Diagram
 
-![Architecture Diagram](path/to/architecture-diagram.png) <!-- Replace with actual path to the diagram -->
+![Architecture Diagram](AR3D.jpeg)
 
 ## Components
 
