@@ -47,7 +47,7 @@ To get started with AR3D-Core, follow these steps:
    2. npm start
    ```
    
-In a new terminal, start the frontend application:
+   In a new terminal, start the frontend application:
    ```bash
    1 cd src
    2 npm start
