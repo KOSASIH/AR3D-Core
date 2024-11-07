@@ -65,4 +65,44 @@ Managing state is crucial for dynamic applications. We recommend using the Conte
    12 };
    ```
 
- 
+ # API Integration
+Integrating with APIs allows you to fetch and display dynamic data.
+
+## Fetching Data
+
+1. **Using Fetch API**
+
+   In your component, use the useEffect hook to fetch data:
+
+   ```javascript
+   1 import React, { useEffect, useState } from 'react';
+   2 
+   3 const DataFetchingComponent = () => {
+   4     const [data, setData] = useState([]);
+   5 
+   6     useEffect(() => {
+   7         const fetchData = async () => {
+   8             const response = await fetch('https://api.example.com/data');
+   9             const result = await response.json();
+   10             setData(result);
+   11           };
+   12 
+   13         fetchData();
+   14     }, []);
+   15 
+   16     return (
+   17         <div>
+   18             <h2>Fetched Data</h2>
+   19             <ul>
+   20                 {data.map(item => (
+   21                     <li key={item.id}>{item.name}</li>
+   22                 ))}
+   23             </ul>
+   24         </div>
+   25     );
+   26 };
+   27 
+   28 export default DataFetchingComponent;
+   ```
+
+   
