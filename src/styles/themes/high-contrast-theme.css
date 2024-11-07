@@ -1,0 +1,9 @@
+/* src/styles/themes/high-contrast-theme.css */
+
+:root {
+    --background-color: #000000;
+    --text-color: #ffffff;
+    --primary-color: #ffcc00;
+    --primary-color-dark: #ff9900;
+    --card-background: #333333;
+}
