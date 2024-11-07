@@ -1,0 +1,9 @@
+/* src/styles/themes/light-theme.css */
+
+:root {
+    --background-color: #ffffff;
+    --text-color: #333333;
+    --primary-color: #007bff;
+    --primary-color-dark: #0056b3;
+    --card-background: #f8f9fa;
+}
