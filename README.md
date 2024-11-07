@@ -1,3 +1,18 @@
+[![Hyperledger Fabric Certified](https://img.shields.io/badge/Hyperledger%20Fabric-Certified-2C3E50?style=for-the-badge&logo=hyperledger&logoColor=white)](https://www.hyperledger.org/use/fabric)
+[![Chainlink Verified Oracle Network](https://img.shields.io/badge/Chainlink-Verified%20Oracle%20Network-3498DB?style=for-the-badge&logo=chainlink&logoColor=white)](https://chain.link/)
+[![Tezos Smart Contract Security Audited](https://img.shields.io/badge/Tezos-Smart%20Contract%20Security%20Audited-007BFF?style=for-the-badge&logo=tezos&logoColor=white)](https://tezos.com/)
+[![Cosmos SDK Validator Node Certified](https://img.shields.io/badge/Cosmos%20SDK-Validator%20Node%20Certified-1ABC9C?style=for-the-badge&logo=cosmos&logoColor=white)](https://cosmos.network/)
+[![AAVE Protocol Integration Verified](https://img.shields.io/badge/AAVE%20Protocol-Integration%20Verified-5865F2?style=for-the-badge&logo=aave&logoColor=white)](https://aave.com/) 
+[![Solidity Security Audited](https://img.shields.io/badge/Solidity-Security%20Audited-F06292?style=for-the-badge&logo=ethereum)](https://ethereum.org/en/developers/docs/security/) 
+[![Rust Smart Contracts](https://img.shields.io/badge/Rust-Smart%20Contracts-orange?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![Web3.js Integration](https://img.shields.io/badge/Web3.js-Integration-3C3C3D?style=for-the-badge&logo=web3.js)](https://web3js.readthedocs.io/)
+[![Polkadot Parachain](https://img.shields.io/badge/Polkadot-Parachain-E6007A?style=for-the-badge&logo=polkadot)](https://polkadot.network/)
+[![Solana Program](https://img.shields.io/badge/Solana-Program-4E4E9A?style=for-the-badge&logo=solana)](https://solana.com/) 
+[![Algorand Smart Contract](https://img.shields.io/badge/Algorand-Smart%20Contract-0084C8?style=for-the-badge&logo=algorand)](https://www.algorand.com/) 
+[![IPFS Data Storage](https://img.shields.io/badge/Data%20Storage-IPFS-blue?style=for-the-badge&logo=ipfs)](https://ipfs.io/) 
+[![The Graph Indexing](https://img.shields.io/badge/Indexed%20by-The%20Graph-FF007A?style=for-the-badge&logo=thegraph)](https://thegraph.com/) 
+[![Arweave Permanent Storage](https://img.shields.io/badge/Storage-Arweave-00C0FF?style=for-the-badge&logo=arweave)](https://www.arweave.org/) 
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/AR3D-Core">AR3D</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # AR3D-Core
