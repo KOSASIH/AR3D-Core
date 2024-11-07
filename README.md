@@ -58,6 +58,15 @@
 [![Zero-Knowledge Finance](https://img.shields.io/badge/Zero%20Knowledge-Finance-7B61FF?style=for-the-badge)](https://zkproof.org/) 
 [![Secure Multi-Party Computation](https://img.shields.io/badge/Secure%20Multi%20Party-Computation-8E44AD?style=for-the-badge)](https://www.iacr.org/conferences/crypto2021/multipartycomputation.html)
 [![Decentralized Identity for Finance](https://img.shields.io/badge/Decentralized%20Identity-for%20Finance-2980B9?style=for-the-badge)](https://www.difin.org/)
+[![Decentralized Exchanges (DEX) Integrator](https://img.shields.io/badge/DEX-Integrator-FFC107?style=for-the-badge&logo=exchange-alt)](https://uniswap.org/) 
+[![Cross-Chain Asset Bridge Builder](https://img.shields.io/badge/Cross%20Chain%20Assets-Bridge%20Builder-4CAF50?style=for-the-badge)](https://www.chainlink.com/solutions/cross-chain) 
+[![Decentralized Data Oracle](https://img.shields.io/badge/Decentralized%20Data-Oracle-E91E63?style=for-the-badge)](https://www.bandprotocol.com/) 
+[![Microfinance Revolutionizer](https://img.shields.io/badge/Microfinance-Revolutionizer-00BCD4?style=for-the-badge&logo=hand-holding-usd)](https://kiva.org/) 
+[![Unbanked Access Champion](https://img.shields.io/badge/Unbanked%20Access-Champion-9C27B0?style=for-the-badge)](https://www.celo.org/)
+[![Digital Identity for All](https://img.shields.io/badge/Digital%20Identity-For%20All-009688?style=for-the-badge)](https://www.id2020.org/)
+[![Tokenized Securities Expert](https://img.shields.io/badge/Tokenized%20Securities-Expert-FF5722?style=for-the-badge)](https://www.securitize.io/) 
+[![Decentralized Asset Management](https://img.shields.io/badge/Decentralized-Asset%20Management-FF9800?style=for-the-badge)](https://melonprotocol.com/) 
+[![Blockchain Compliance Trailblazer](https://img.shields.io/badge/Blockchain%20Compliance-Trailblazer-673AB7?style=for-the-badge)](https://www.coindesk.com/regulatory-news) 
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/AR3D-Core">AR3D</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
