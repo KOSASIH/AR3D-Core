@@ -1,0 +1,9 @@
+/* src/styles/themes/dark-theme.css */
+
+:root {
+    --background-color: #121212;
+    --text-color: #ffffff;
+    --primary-color: #bb86fc;
+    --primary-color-dark: #3700b3;
+    --card-background: #1e1e1e;
+}
