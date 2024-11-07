@@ -1,0 +1,68 @@
+{
+  "name": "ar3d-core",
+  "version": "1.0.0",
+  "description": "A core library for Augmented Reality 3D applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "test": "jest",
+    "build": "webpack --config webpack.config.js",
+    "lint": "eslint .",
+    "deploy": "bash scripts/deploy.sh",
+    "setup": "bash scripts/setup.sh"
+  },
+  "keywords": [
+    "augmented-reality",
+    "3d",
+    "web",
+    "threejs",
+    "ar"
+  ],
+  "author": "KOSASIH",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KOSASIH/AR3D-Core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KOSASIH/AR3D-Core/issues"
+  },
+  "homepage": "https://github.com/KOSASIH/AR3D-Core#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "three": "^0.130.0",
+    "aframe": "^1.2.0",
+    "socket.io": "^4.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.0",
+    "supertest": "^6.1.0",
+    "nodemon": "^2.0.7",
+    "eslint": "^7.11.0",
+    "webpack": "^5.10.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+      "ecmaVersion": 2020
+    },
+    "rules": {
+      "no-console": "warn",
+      "indent": ["error", 2],
+      "quotes": ["error", "single"],
+      "semi": ["error", "always"]
+    }
+  }
+}
