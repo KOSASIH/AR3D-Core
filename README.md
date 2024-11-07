@@ -49,6 +49,15 @@
 [![AML/KYC Compliant](https://img.shields.io/badge/AML/KYC-Compliant-FF5733?style=for-the-badge&logo=shield-alt)](https://www.fatf-gafi.org/) 
 [![Financial Data Security](https://img.shields.io/badge/Financial%20Data-Secure-E74C3C?style=for-the-badge&logo=lock)](https://www.iso.org/isoiec-27001-information-security.html)
 [![Cross-Border Payments Expertise](https://img.shields.io/badge/Cross%20Border%20Payments-Expert-3498DB?style=for-the-badge&logo=money-bill-wave)](https://www.swift.com/our-solutions/payments-cash-management)
+[![Cross-Border DeFi](https://img.shields.io/badge/Cross%20Border-DeFi-3498DB?style=for-the-badge&logo=globe)](https://defipulse.com/)
+[![Stablecoin Interoperability](https://img.shields.io/badge/Stablecoin-Interoperability-2ECC71?style=for-the-badge)](https://www.centre.io/)
+[![Decentralized Derivatives](https://img.shields.io/badge/Decentralized-Derivatives-E74C3C?style=for-the-badge)](https://www.dydx.exchange/)
+[![Carbon Credit Tokenization](https://img.shields.io/badge/Carbon%20Credits-Tokenized-27AE60?style=for-the-badge&logo=leaf)](https://www.nori.com/)
+[![ESG-Compliant Blockchain](https://img.shields.io/badge/ESG-Compliant%20Blockchain-34495E?style=for-the-badge)](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+[![Impact Investing Transparency](https://img.shields.io/badge/Impact%20Investing-Transparency-9B59B6?style=for-the-badge&logo=hand-holding-heart)](https://thegiin.org/)
+[![Zero-Knowledge Finance](https://img.shields.io/badge/Zero%20Knowledge-Finance-7B61FF?style=for-the-badge)](https://zkproof.org/) 
+[![Secure Multi-Party Computation](https://img.shields.io/badge/Secure%20Multi%20Party-Computation-8E44AD?style=for-the-badge)](https://www.iacr.org/conferences/crypto2021/multipartycomputation.html)
+[![Decentralized Identity for Finance](https://img.shields.io/badge/Decentralized%20Identity-for%20Finance-2980B9?style=for-the-badge)](https://www.difin.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/AR3D-Core">AR3D</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
