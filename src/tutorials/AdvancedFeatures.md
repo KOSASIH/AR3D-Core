@@ -105,4 +105,59 @@ Integrating with APIs allows you to fetch and display dynamic data.
    28 export default DataFetchingComponent;
    ```
 
+# Real-Time Collaboration
+Implementing real-time features can enhance user interaction.
+
+## Using WebSockets
+
+1. **Set Up WebSocket Server**
+
+   Create a simple WebSocket server in src/collaboration/WebSocketServer.js:
+
+   ```javascript
+   1 const WebSocket = require('ws');
+   2 
+   3 const wss = new WebSocket.Server({ port: 8080 });
+   4 
+   5 wss.on('connection', ws => {
+   6     ws.on('message', message => {
+   7         // Broadcast incoming message to all clients
+   8         wss.clients.forEach(client => {
+   9             if (client.readyState === WebSocket.OPEN) {
+   10                 client.send(message);
+   11             }
+   12         });
+   13     });
+   14 });
+   15 
+   16 console.log('WebSocket server is running on ws://localhost:8080');
+   ```
    
+2. **Connect to WebSocket in Your App**
+
+   In your component, connect to the WebSocket server:
+
+   ```javascript
+   1 import React, { useEffect } from 'react';
+   2 
+   3 const RealTimeChat = () => {
+   4     useEffect(() => {
+   5         const socket = new WebSocket('ws://localhost:8080');
+   6 
+   7         socket.onmessage = event => {
+   8             console.log('Message from server:', event.data);
+   9         };
+   10 
+   11         return () => {
+   12             socket.close();
+   13         };
+   14     }, []);
+   15 
+   16     return <div>Real-time chat component</div>;
+   17 };
+   18 
+   19 export default RealTimeChat;
+   ```
+   
+# Conclusion
+This guide provides an overview of advanced features you can implement in your AR3D-Core applications. Explore these features to enhance your projects and provide a richer user experience. For best practices, refer to the Best Practices guide.   
