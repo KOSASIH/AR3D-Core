@@ -12,6 +12,15 @@
 [![IPFS Data Storage](https://img.shields.io/badge/Data%20Storage-IPFS-blue?style=for-the-badge&logo=ipfs)](https://ipfs.io/) 
 [![The Graph Indexing](https://img.shields.io/badge/Indexed%20by-The%20Graph-FF007A?style=for-the-badge&logo=thegraph)](https://thegraph.com/) 
 [![Arweave Permanent Storage](https://img.shields.io/badge/Storage-Arweave-00C0FF?style=for-the-badge&logo=arweave)](https://www.arweave.org/) 
+[![Zero-Knowledge Proofs](https://img.shields.io/badge/Zero%20Knowledge-Proofs-7B61FF?style=for-the-badge&logo=zeroknowledge)](https://zkproof.org/)
+[![Decentralized Identity Integration](https://img.shields.io/badge/Decentralized-Identity-00BFFF?style=for-the-badge&logo=identity)](https://www.w3.org/TR/did-core/)
+[![Cross-Chain Interoperability](https://img.shields.io/badge/Cross%20Chain-Interoperability-2ECC71?style=for-the-badge)](https://ethereum.org/en/developers/docs/bridges/)
+[![Active DAO Contributor](https://img.shields.io/badge/DAO-Active%20Contributor-FFD700?style=for-the-badge)](https://deepdao.io/) 
+[![Grant Recipient](https://img.shields.io/badge/Grant-Recipient-00A36C?style=for-the-badge)](https://ethereum.foundation/grants/) 
+[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github)](https://github.com/) 
+[![Metaverse Integration](https://img.shields.io/badge/Metaverse-Integration-FF4500?style=for-the-badge)](https://www.investopedia.com/terms/m/metaverse.asp)
+[![DeFi Security Audited](https://img.shields.io/badge/DeFi-Security%20Audited-2980B9?style=for-the-badge)](https://defisafety.com/)
+[![NFT Marketplace Compatibility](https://img.shields.io/badge/NFT%20Marketplace-Compatibility-6441A5?style=for-the-badge)](https://opensea.io/) 
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/AR3D-Core">AR3D</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
