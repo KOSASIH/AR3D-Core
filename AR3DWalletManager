@@ -1,0 +1,117 @@
+using UnityEngine;
+using UnityEngine.XR.ARFoundation;
+using UnityEngine.XR.ARSubsystems;
+using Photon.Pun;
+using System.Security.Cryptography;
+using System.Text;
+using System.Collections;
+
+public class AR3DWalletManager : MonoBehaviourPunCallbacks
+{
+    public ARSessionOrigin arSessionOrigin;
+    public GameObject asset3DModel;
+    public TextMesh infoDisplay;
+
+    private GameObject currentAssetModel;
+    private bool isTransacting = false;
+    
+    void Start()
+    {
+        // Inisialisasi sesi AR dan memuat aset pengguna
+        InitializeARSession();
+        LoadUserAssets();
+    }
+
+    void InitializeARSession()
+    {
+        arSessionOrigin = FindObjectOfType<ARSessionOrigin>();
+        if (arSessionOrigin == null)
+        {
+            Debug.LogError("AR Session Origin tidak ditemukan!");
+            return;
+        }
+
+        // Konfigurasi pengaturan AR berdasarkan platform (kompatibilitas lintas platform)
+#if UNITY_IOS
+        arSessionOrigin.MakeContentAppearAt(transform, new Vector3(0, 0, 1.5f));
+#elif UNITY_ANDROID
+        arSessionOrigin.MakeContentAppearAt(transform, new Vector3(0, 0, 1.2f));
+#else
+        arSessionOrigin.MakeContentAppearAt(transform, new Vector3(0, 0, 2.0f));
+#endif
+    }
+
+    void LoadUserAssets()
+    {
+        // Memuat model aset 3D untuk visualisasi
+        currentAssetModel = Instantiate(asset3DModel, arSessionOrigin.transform.position, Quaternion.identity);
+        infoDisplay.text = "Asset Loaded: " + currentAssetModel.name;
+    }
+
+    public void OnTransactionInitiate()
+    {
+        if (isTransacting) return;
+        isTransacting = true;
+
+        // Menampilkan animasi loading dan memulai transaksi aman
+        infoDisplay.text = "Initiating Transaction...";
+        StartCoroutine(HandleSecureTransaction());
+    }
+
+    private IEnumerator HandleSecureTransaction()
+    {
+        // Enkripsi data transaksi untuk keamanan
+        byte[] encryptedData = EncryptTransactionData("UserData for Transaction");
+        
+        // Mengirim data menggunakan Photon untuk interaksi real-time
+        photonView.RPC("ProcessTransaction", RpcTarget.All, encryptedData);
+
+        // Simulasi jeda transaksi
+        yield return new WaitForSeconds(2);
+        
+        isTransacting = false;
+        infoDisplay.text = "Transaction Complete";
+    }
+
+    [PunRPC]
+    public void ProcessTransaction(byte[] encryptedData)
+    {
+        // Dekripsi dan validasi data transaksi
+        string decryptedData = DecryptTransactionData(encryptedData);
+        Debug.Log("Transaction Data Received: " + decryptedData);
+    }
+
+    private byte[] EncryptTransactionData(string data)
+    {
+        using (Aes aes = Aes.Create())
+        {
+            aes.GenerateKey();
+            aes.GenerateIV();
+
+            ICryptoTransform encryptor = aes.CreateEncryptor(aes.Key, aes.IV);
+            byte[] dataBytes = Encoding.UTF8.GetBytes(data);
+            return encryptor.TransformFinalBlock(dataBytes, 0, dataBytes.Length);
+        }
+    }
+
+    private string DecryptTransactionData(byte[] encryptedData)
+    {
+        using (Aes aes = Aes.Create())
+        {
+            aes.GenerateKey();
+            aes.GenerateIV();
+
+            ICryptoTransform decryptor = aes.CreateDecryptor(aes.Key, aes.IV);
+            byte[] decryptedBytes = decryptor.TransformFinalBlock(encryptedData, 0, encryptedData.Length);
+            return Encoding.UTF8.GetString(decryptedBytes);
+        }
+    }
+
+    public void OnDestroy()
+    {
+        if (currentAssetModel != null)
+        {
+            Destroy(currentAssetModel);
+        }
+    }
+}
