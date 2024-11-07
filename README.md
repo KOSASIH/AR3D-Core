@@ -27,6 +27,12 @@
 [![Gas Optimization Guru](https://img.shields.io/badge/Gas%20Optimization-Guru-00BCD4?style=for-the-badge&logo=gas-pump)](https://example.com/gas-optimization-tips) 
 [![Blockchain Meme Lord](https://img.shields.io/badge/Blockchain%20Memes-Lord-FF9800?style=for-the-badge&logo=dogecoin)](https://example.com/blockchain-meme-competition)
 [![Smart Contract Whisperer](https://img.shields.io/badge/Smart%20Contract-Whisperer-9C27B0?style=for-the-badge&logo=unicorn)](https://example.com/smart-contract-secrets) 
+[![Ethereum Network Explorer](https://img.shields.io/badge/Ethereum-Network%20Explorer-3C3C3D?style=for-the-badge&logo=ethereum)](https://etherscan.io/) 
+[![Cosmos Interchain Voyager](https://img.shields.io/badge/Cosmos-Interchain%20Voyager-1ABC9C?style=for-the-badge&logo=cosmos)](https://mapofzones.com/)
+[![Polkadot Ecosystem Navigator](https://img.shields.io/badge/Polkadot-Ecosystem%20Navigator-E6007A?style=for-the-badge&logo=polkadot)](https://polkadot.js.org/apps/#/explorer) 
+[![Regenerative Finance Pioneer](https://img.shields.io/badge/ReFi-Pioneer-2ECC71?style=for-the-badge&logo=seedling)](https://reffi.earth/)
+[![Decentralized Science Advocate](https://img.shields.io/badge/DeSci-Advocate-00BFFF?style=for-the-badge&logo=molecule)](https://desci.org/)
+[![Proof of Humanity Verified](https://img.shields.io/badge/Proof%20of-Humanity-blue?style=for-the-badge&logo=fingerprint)](https://www.proofofhumanity.id/) 
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/AR3D-Core">AR3D</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
