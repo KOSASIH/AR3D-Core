@@ -75,6 +75,15 @@
 [![Quantum-Resistant Cryptography](https://img.shields.io/badge/Quantum%20Resistant-Cryptography-03A9F4?style=for-the-badge&logo=atom)](https://pqshield.com/)
 [![Post-Quantum Blockchain](https://img.shields.io/badge/Post%20Quantum-Blockchain-009688?style=for-the-badge)](https://thequantuminsider.com/)
 [![Quantum-Secure Transactions](https://img.shields.io/badge/Quantum%20Secure-Transactions-4CAF50?style=for-the-badge)](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms) 
+[![ZK-Rollup Scaling Expert](https://img.shields.io/badge/ZK-Rollup%20Scaling%20Expert-8E44AD?style=for-the-badge&logo=rocket)](https://ethereum.org/en/developers/docs/scaling/layer-2-rollups/)
+[![Interplanetary File System (IPFS) Pioneer](https://img.shields.io/badge/IPFS-Pioneer-2196F3?style=for-the-badge&logo=globe)](https://ipfs.io/)
+[![Decentralized Artificial Intelligence (AI)](https://img.shields.io/badge/Decentralized%20AI-Innovator-F44336?style=for-the-badge&logo=robot)](https://www.oceanprotocol.com/)
+[![Supply Chain Traceability Master](https://img.shields.io/badge/Supply%20Chain-Traceability%20Master-00BCD4?style=for-the-badge&logo=truck)](https://www.ibm.com/blockchain/solutions/supply-chain)
+[![Decentralized Voting Advocate](https://img.shields.io/badge/Decentralized-Voting%20Advocate-9C27B0?style=for-the-badge&logo=check-square)](https://www.democracy.earth/)
+[![Digital Identity for Social Good](https://img.shields.io/badge/Digital%20Identity-for%20Social%20Good-009688?style=for-the-badge&logo=address-card)](https://www.id2020.org/)
+[![Smart Contract Security Educator](https://img.shields.io/badge/Smart%20Contract%20Security-Educator-3F51B5?style=for-the-badge&logo=graduation-cap)](https://consensys.net/academy/) 
+[![Blockchain Community Builder](https://img.shields.io/badge/Blockchain%20Community-Builder-FF9800?style=for-the-badge&logo=users)](https://ethereum.org/en/community/)
+[![Open Source Blockchain Contributor](https://img.shields.io/badge/Open%20Source%20Blockchain-Contributor-4CAF50?style=for-the-badge&logo=github)](https://github.com/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/AR3D-Core">AR3D</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
