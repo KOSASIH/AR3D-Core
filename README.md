@@ -40,6 +40,15 @@
 [![BIS Innovation Hub Recognized](https://img.shields.io/badge/BIS%20Innovation%20Hub-Recognized-009FDA?style=for-the-badge&logo=bis)](https://www.bis.org/about/innovationhub.htm)
 [![IMF Fintech Challenge Winner](https://img.shields.io/badge/IMF%20Fintech-Challenge%20Winner-007AFF?style=for-the-badge&logo=imf)](https://www.imf.org/)
 [![World Bank Digital Finance Certified](https://img.shields.io/badge/World%20Bank-Digital%20Finance%20Certified-00993D?style=for-the-badge&logo=worldbank)](https://www.worldbank.org/) 
+[![CBDC Sandbox Participant](https://img.shields.io/badge/CBDC-Sandbox%20Participant-003366?style=for-the-badge&logo=bank)](https://www.bis.org/about/innovationhub.htm)
+[![Digital Currency Interoperability](https://img.shields.io/badge/Digital%20Currency-Interoperability-00529B?style=for-the-badge&logo=globe)](https://www.bis.org/) 
+[![Wholesale CBDC Expertise](https://img.shields.io/badge/Wholesale%20CBDC-Expert-4A148C?style=for-the-badge)](https://www.bis.org/) 
+[![Trade Finance Blockchain](https://img.shields.io/badge/Trade%20Finance-Blockchain%20Enabled-007BFF?style=for-the-badge&logo=shipping-fast)](https://www.weforum.org/projects/redesigning-trust-blockchain-deployment-toolkit) 
+[![Supply Chain Transparency](https://img.shields.io/badge/Supply%20Chain-Transparency-2ECC71?style=for-the-badge&logo=truck)](https://www.ibm.com/blockchain/solutions/supply-chain)
+[![Letters of Credit Automated](https://img.shields.io/badge/Letters%20of%20Credit-Automated-00993D?style=for-the-badge)](https://www.swift.com/) 
+[![AML/KYC Compliant](https://img.shields.io/badge/AML/KYC-Compliant-FF5733?style=for-the-badge&logo=shield-alt)](https://www.fatf-gafi.org/) 
+[![Financial Data Security](https://img.shields.io/badge/Financial%20Data-Secure-E74C3C?style=for-the-badge&logo=lock)](https://www.iso.org/isoiec-27001-information-security.html)
+[![Cross-Border Payments Expertise](https://img.shields.io/badge/Cross%20Border%20Payments-Expert-3498DB?style=for-the-badge&logo=money-bill-wave)](https://www.swift.com/our-solutions/payments-cash-management)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/AR3D-Core">AR3D</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
